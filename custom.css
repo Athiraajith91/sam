@@ -1,0 +1,58 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    color:white;
+    font-family: 'Dancing Script', cursive;
+}
+.image
+{
+    background-image: url("pexels-chan-walrus-941861.jpg");
+height: 100vh;
+background-size: cover;
+}
+
+.head
+{
+    text-align: center;
+    padding-top: 250px;
+    
+}
+h1{
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+    
+    }
+   
+    p{
+        font-size: 25px;
+        color: white;
+    }
+  
+    button
+ {
+width:200px;
+border-radius: 25px;
+padding:10px 0;
+margin:20px 700px;
+font-weight: bold;
+background-color: transparent;
+border: 3px solid white;
+color: white;
+
+ }
+ a{
+    text-decoration: none;;
+ }
+ .navbar
+ {
+    width:  250px;
+    height:100vh;
+    background-color: black;
+ }
+ li{
+    padding: 60px;
+    
+ }
+ 
